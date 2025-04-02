@@ -224,3 +224,9 @@ No open Browser and Input
 [Check Official guide](https://github.com/gensyn-ai/rl-swarm?tab=readme-ov-file)
 
 
+# GPU based VPS, same procedure 
+Adding this flag: ```-L 3000:localhost:3000``` while using the powershell login 
+say:  ```ssh -L 3000:localhost:3000 root@Server_IP -p SSH_PORT``` 
+
+
+
